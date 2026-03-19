@@ -1,0 +1,6 @@
+exp_name = test_arm
+data_dir = datasets/test_arm/4DoF
+input_data_glob = /model.obj
+num_dim = 4
+num_samples = 1000000
+task_name = arm

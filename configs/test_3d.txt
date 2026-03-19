@@ -1,0 +1,5 @@
+exp_name = test_3d
+data_dir = datasets/test_3d
+input_data_glob = /mesh_z_up_clip.obj # env mesh
+num_dim = 4 # set 3 for [x, y, z], set 4 for [x, y, z, theta], usually fix dim z
+num_samples = 1000000

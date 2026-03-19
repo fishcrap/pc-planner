@@ -1,0 +1,5 @@
+exp_name = test_2d
+data_dir = datasets/test_2d
+num_dim = 3 # [x, y, theta]
+num_samples = 1000000
+gen_2d = True

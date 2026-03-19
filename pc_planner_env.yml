@@ -1,0 +1,14 @@
+name: pc-planner
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9.7
+  - cudatoolkit=11.3
+  - pytorch=1.10.2=py3.9_cuda11.3_cudnn8.2.0_0
+  - numpy=1.26.4
+  - scipy=1.12.0
+  - igl=2.2.1
+  - pip
